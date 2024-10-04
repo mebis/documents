@@ -4,7 +4,6 @@ slug: first-blog-post
 tags:
   - foo
   - bar
-  - ggg
 authors:
   - name: Garrison McMullen
     title: Instruction Writer
